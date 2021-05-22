@@ -6,11 +6,13 @@ import CarouselItem from '../components/CarouselItem';
 import useInitialState from '../hooks/useInitialState';
 import '../assets/styles/App.scss';
 import { connect } from "react-redux";
+import Header from '../components/Header';
 
 const Home = ({myList, trends, originals}) => {
 
   return (
     <>
+    <Header />
       <Search />
       {myList.length > 0 &&
         <Categories title="Mi Lista">
