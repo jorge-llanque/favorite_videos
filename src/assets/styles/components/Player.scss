@@ -1,3 +1,4 @@
+@import "./../Vars.scss";
 video {
     object-fit: cover;
     width: 100vw;
@@ -20,12 +21,15 @@ video {
   }
   
   .Player-back button {
+    margin: 1rem;
     text-decoration: none;
     color: white;
-    background: rgba(0, 0, 0, .3);
+    background: $main-color;
     padding: 5px;
     border-radius: 5px;
     border: 0;
     outline: 0;
     cursor: pointer;
+    width: 100px;
+    height: 35px;
   }

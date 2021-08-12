@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import classNames from 'classnames';
 import gravatar from '../utils/gravatar';
 import '../assets/styles/components/Header.scss';
-import logo from '../assets/static/logo-platzi-video-BW2.png';
+import logo from '../assets/static/logo.png';
 import userIcon from '../assets/static/user-icon.png';
 import { logoutRequest } from '../actions';
 

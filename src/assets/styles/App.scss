@@ -33,5 +33,14 @@ input {
 h2{
   font-size: 2.5rem;
 }
+iframe {
+  position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    right: 0;
+}
 ::-webkit-scrollbar{ display:none; }
 
