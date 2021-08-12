@@ -10,6 +10,7 @@ html{
   font-size: 62.5%;
 }
 body {
+  position: relative;
   font-family: $theme-font;
   background: $main-color;
   padding: 0 2.5rem;
@@ -25,6 +26,9 @@ li {
 }
 a {
   text-decoration: none;
+}
+input {
+  outline: none;
 }
 ::-webkit-scrollbar{ display:none; }
 

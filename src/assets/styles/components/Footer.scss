@@ -1,18 +1,14 @@
 .footer {
-  align-items: center;
   display: flex;
-  height: 100px;
-  width: 100%;
+  align-items: center;
+  height: 5rem;
 }
-
 .footer a {
   color: white;
   cursor: pointer;
   font-size: 14px;
-  padding-left: 30px;
-  text-decoration: none;
+  text-align: center;
 }
-
 .footer a:hover {
   text-decoration: underline;
 }
