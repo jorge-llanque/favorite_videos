@@ -1,13 +1,30 @@
 @import "./Vars.scss";
-@import "./Media.scss";
-
-body {
-  margin: 0;
-  font-family: $theme-font;
-  background: $main-color;
-}
 
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
+
+html{
+  font-size: 62.5%;
+}
+body {
+  font-family: $theme-font;
+  background: $main-color;
+  padding: 0 2.5rem;
+  @media screen and (min-width: 768px) {
+    padding: 0 5rem;
+  }
+  @media screen and (min-width: 1024px) {
+    padding: 0 10rem;
+  }
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
 ::-webkit-scrollbar{ display:none; }
+

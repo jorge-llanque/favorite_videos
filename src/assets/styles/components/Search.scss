@@ -4,16 +4,17 @@
   justify-content: center;
   flex-direction: column;
   height: 300px;
-  border-radius: 0px 0px 40px 40px;
+  gap: 1rem;
 }
 
 .main .isHome {
   width: 70%;
+  max-width: 40rem;
 }
 
 .main__title {
   color: white;
-  font-size: 25px;
+  font-size: 2rem;
 }
 
 .input {
@@ -23,12 +24,8 @@
   color: white;
   font-family: 'Muli', sans-serif;
   font-size: 16px;
-  height: 50px;
-  margin-bottom: 20px;
+  height: 40px;
   outline: none;
   padding: 0px 20px;
-}
-
-::placeholder {
-  color: white;
+  
 }

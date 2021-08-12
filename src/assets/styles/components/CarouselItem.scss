@@ -3,8 +3,8 @@
   overflow: hidden;
   position: relative;
   display: inline-block;
-  width: 200px;
-  height: 250px;
+  width: 20rem;
+  height: 25rem;
   margin-right: 10px;
   font-size: 20px;
   cursor: pointer;
@@ -19,8 +19,8 @@
 }
 
 .carousel-item__img {
-  width: 200px;
-  height: 250px;
+  width: 20rem;
+  height: 25rem;
   -o-object-fit: cover;
      object-fit: cover;
 }
