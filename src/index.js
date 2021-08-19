@@ -19,7 +19,7 @@ const initialState = {
       'year': 2009,
       'contentRating': '16+',
       'duration': 164,
-      'cover': 'https://i.ytimg.com/an_webp/adLGHcj_fmA/mqdefault_6s.webp?du=3000&sqp=CPDX0ogG&rs=AOn4CLDjPfRVr7WEEDKKL73e_5eTmR91Ug',
+      'cover': 'https://i.ytimg.com/vi/2vtos1qUnvE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBea0jwHITIR3gyEVDdGc_R_nPByA',
       'description': 'Vestibulum ac est lacinia nisi venenatis tristique',
       'source': 'https://www.youtube.com/embed/adLGHcj_fmA',
     },
