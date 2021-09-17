@@ -1,5 +1,5 @@
 # FAVORITE VIDEOS
-This Project try to show you how to build a project using modern technologies as Redux, SCSS,Webpack. [Look at here](https://favoritevideos.netlify.app/)
+This Project try to show you how to build a project using modern technologies as Redux, SCSS, Webpack. [Look at here](https://favoritevideos.netlify.app/)
 
 ## Deployment
  The app was uploaded on Netlify Hosting, you can visit the app [here](https://favoritevideos.netlify.app/)
