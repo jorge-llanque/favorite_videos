@@ -7,7 +7,7 @@ This Project try to show you how to build a project using modern technologies as
 ## TECHNOLOGIES AND TOOLS
  In general I'm using javascript for the development. But for more specification I'm using:
  * Javascript
- * React
+ * ReactJS
  * Redux
  * SCSS
  * Webpack
