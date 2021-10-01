@@ -13,5 +13,5 @@ This Project try to show you how to build a project using modern technologies as
  * Webpack
  * Jest
 
-## AUTHOR
+## DEVELOPER
 * **Jorge LLanque** - *Software Developer* - [LinkedIn](https://www.linkedin.com/in/jorgellanque)
